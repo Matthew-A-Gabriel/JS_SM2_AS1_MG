@@ -1,3 +1,4 @@
+// Button Variables
 var zero = document.getElementById("0")
 var one = document.getElementById("1")
 var two = document.getElementById("2")
@@ -14,3 +15,17 @@ var subtract = document.getElementById("-")
 var divide = document.getElementById("/")
 var multiply = document.getElementById("*")
 var equal = document.getElementById("eq")
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+,
